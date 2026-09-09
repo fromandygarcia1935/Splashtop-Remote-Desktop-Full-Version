@@ -252,3 +252,6 @@ This repository serves as the official landing page for Splashtop Remote Desktop
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Splashtop Remote Desktop today!**
+
+---
+**Last updated:** 2026-09-09 19:08:24 UTC
