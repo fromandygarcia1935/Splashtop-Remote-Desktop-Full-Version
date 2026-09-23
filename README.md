@@ -254,4 +254,4 @@ This repository serves as the official landing page for Splashtop Remote Desktop
 **Get the most recent version of Splashtop Remote Desktop today!**
 
 ---
-**Last updated:** 2026-09-23 16:21:48 UTC
+**Last updated:** 2026-09-23 19:59:29 UTC
